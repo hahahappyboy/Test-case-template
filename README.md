@@ -1,5 +1,3 @@
-# 好看的测试用例模板
-
 # 写在前面
 
 本模板借鉴了[这个视频](https://www.bilibili.com/video/BV1bv411T7PZ?spm_id_from=333.788.videopod.episodes&vd_source=4bbc246da01d3bb)，感谢这位UP主的分享。
